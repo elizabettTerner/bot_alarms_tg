@@ -8,7 +8,7 @@ from datetime import datetime, timedelta
 import pytz # для работы с часовыми поясами
 
 
-API_TOKEN = "7533618744:AAE6MMtqExhQUl8JrSbH6IEPaY9dr8cmZpk"
+API_TOKEN = "PASTE_API_TOKEN_HERE"
 
 bot = Bot(token=API_TOKEN)
 dp = Dispatcher(bot)
